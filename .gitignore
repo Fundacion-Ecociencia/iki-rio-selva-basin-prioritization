@@ -3,5 +3,6 @@ CLAUDE.md
 *.tif
 *.ovr
 *.gpkg
-inputs/
-workspace/
+anual_discharge.csv
+ecological_discharge.csv
+monthly_discharge.csv
