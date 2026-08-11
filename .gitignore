@@ -1,8 +1,2 @@
 .claude
 CLAUDE.md
-*.tif
-*.ovr
-*.gpkg
-anual_discharge.csv
-ecological_discharge.csv
-monthly_discharge.csv
